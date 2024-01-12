@@ -1,21 +1,12 @@
-# TelegramUserbotGratis
+# Telegram Userbot Gratis LIFE TIME
 
+Hai kamu gak ada uang buat punya userbot / kamu mau yang gratisan?
+Tenang aja aku ada yang gratis buat kamu
 
----
+Btw applikasi ini hanya work di android
 
-### Demo
+Silahkan download disini []()
 
----
+--- 
 
-### Install Library
-
-```bash
-dart pub add telegram_userbot_gratis
-```
-
-or flutter
-
-```bash
-dart pub add telegram_userbot_gratis_flutter
-```
- 
+DEMO 
