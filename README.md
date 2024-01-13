@@ -11,7 +11,7 @@ Silahkan download disini [DOWNLOAD APK](https://github.com/azkadev/telegram_user
 
 DEMO + Cara Pakai
 
-
+ [![thumbnail_bot_ai](https://img.youtube.com/vi/ltJv2P99Yuc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ltJv2P99Yuc)
 
 ---
 ## Screenshot
