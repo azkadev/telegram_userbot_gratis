@@ -15,7 +15,7 @@ Ya jika repo ini banyak yang stars saya akan full open source silahkan tap stars
 
 DEMO + Cara Pakai
 
- [![thumbnail_bot_ai](https://img.youtube.com/vi/ltJv2P99Yuc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ltJv2P99Yuc)
+ [![thumbnail_bot_ai](https://img.youtube.com/vi/Y7rCZao9Loc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y7rCZao9Loc)
 
 ---
 ## Screenshot
