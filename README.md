@@ -7,6 +7,10 @@ Btw applikasi ini hanya work di android
 
 Silahkan download disini [DOWNLOAD APK](https://github.com/azkadev/telegram_userbot_gratis/releases/download/latest/app-release.apk)
 
+## Open Source ? 
+
+Ya jika repo ini banyak yang stars saya akan full open source silahkan tap stars ya
+
 --- 
 
 DEMO + Cara Pakai
