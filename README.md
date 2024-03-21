@@ -1,23 +1,21 @@
-# Telegram Userbot Gratis LIFE TIME
+IyBUZWxlZ3JhbSBVc2VyYm90IEdyYXRpcyBMSUZFIFRJTUUKCkhhaSBrYW11
+IGdhayBhZGEgdWFuZyBidWF0IHB1bnlhIHVzZXJib3QgLyBrYW11IG1hdSB5
+YW5nIGdyYXRpc2FuPwpUZW5hbmcgYWphIGFrdSBhZGEgeWFuZyBncmF0aXMg
+YnVhdCBrYW11CgpCdHcgYXBwbGlrYXNpIGluaSBoYW55YSB3b3JrIGRpIGFu
+ZHJvaWQKCkFwcCBpbmkgc3VkYWggdGlkYWsgZGkgcHVibGlzaCBwdWJsaWMg
+c2lsYWhrYW4gcGFrYWkgaW5pIFtHZW5lcmFsIEJvdCBBcHBdKGh0dHBzOi8v
+Z2l0aHViLmNvbS9nZW5lcmFsY29ycG9yYXRpb24vcHJvZHVjdHNfZ2VuZXJh
+bF9ib3RfYXBwKQoKIyMgT3BlbiBTb3VyY2UgPyAKCllhIGppa2EgcmVwbyBp
+bmkgYmFueWFrIHlhbmcgc3RhcnMgc2F5YSBha2FuIGZ1bGwgb3BlbiBzb3Vy
+Y2Ugc2lsYWhrYW4gdGFwIHN0YXJzIHlhCgotLS0gCgpERU1PICsgQ2FyYSBQ
+YWthaQoKIFshW3RodW1ibmFpbF9ib3RfYWldKGh0dHBzOi8vaW1nLnlvdXR1
+YmUuY29tL3ZpL1k3ckNaYW85TG9jL21heHJlc2RlZmF1bHQuanBnKV0oaHR0
+cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZN3JDWmFvOUxvYykKCi0t
+LQojIyBTY3JlZW5zaG90CgohWzIwMjQtMDEtMTIgMjE6NDU6NTMgNzc4NjUw
+XShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi90ZWxlZ3JhbV91c2VyYm90
+X2dyYXRpcy9hc3NldHMvODI1MTM1MDIvNmZjZWUwNjEtYmFjNS00M2VkLTg1
+ZTktMDg3NGRlNzQ4YjMyKQo=
 
-Hai kamu gak ada uang buat punya userbot / kamu mau yang gratisan?
-Tenang aja aku ada yang gratis buat kamu
-
-Btw applikasi ini hanya work di android
-
-App ini sudah tidak di publish public silahkan pakai ini [General Bot App](https://github.com/generalcorporation/products_general_bot_app)
-
-## Open Source ? 
-
-Ya jika repo ini banyak yang stars saya akan full open source silahkan tap stars ya
-
---- 
-
-DEMO + Cara Pakai
-
- [![thumbnail_bot_ai](https://img.youtube.com/vi/Y7rCZao9Loc/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y7rCZao9Loc)
-
----
-## Screenshot
-
-![2024-01-12 21:45:53 778650](https://github.com/azkadev/telegram_userbot_gratis/assets/82513502/6fcee061-bac5-43ed-85e9-0874de748b32)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
