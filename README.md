@@ -1,20 +1,39 @@
-IyBUZWxlZ3JhbSBVc2VyYm90IEdyYXRpcyBMSUZFIFRJTUUKCkhhaSBrYW11
-IGdhayBhZGEgdWFuZyBidWF0IHB1bnlhIHVzZXJib3QgLyBrYW11IG1hdSB5
-YW5nIGdyYXRpc2FuPwpUZW5hbmcgYWphIGFrdSBhZGEgeWFuZyBncmF0aXMg
-YnVhdCBrYW11CgpCdHcgYXBwbGlrYXNpIGluaSBoYW55YSB3b3JrIGRpIGFu
-ZHJvaWQKCkFwcCBpbmkgc3VkYWggdGlkYWsgZGkgcHVibGlzaCBwdWJsaWMg
-c2lsYWhrYW4gcGFrYWkgaW5pIFtHZW5lcmFsIEJvdCBBcHBdKGh0dHBzOi8v
-Z2l0aHViLmNvbS9nZW5lcmFsY29ycG9yYXRpb24vcHJvZHVjdHNfZ2VuZXJh
-bF9ib3RfYXBwKQoKIyMgT3BlbiBTb3VyY2UgPyAKCllhIGppa2EgcmVwbyBp
-bmkgYmFueWFrIHlhbmcgc3RhcnMgc2F5YSBha2FuIGZ1bGwgb3BlbiBzb3Vy
-Y2Ugc2lsYWhrYW4gdGFwIHN0YXJzIHlhCgotLS0gCgpERU1PICsgQ2FyYSBQ
-YWthaQoKIFshW3RodW1ibmFpbF9ib3RfYWldKGh0dHBzOi8vaW1nLnlvdXR1
-YmUuY29tL3ZpL1k3ckNaYW85TG9jL21heHJlc2RlZmF1bHQuanBnKV0oaHR0
-cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZN3JDWmFvOUxvYykKCi0t
-LQojIyBTY3JlZW5zaG90CgohWzIwMjQtMDEtMTIgMjE6NDU6NTMgNzc4NjUw
-XShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldi90ZWxlZ3JhbV91c2VyYm90
-X2dyYXRpcy9hc3NldHMvODI1MTM1MDIvNmZjZWUwNjEtYmFjNS00M2VkLTg1
-ZTktMDg3NGRlNzQ4YjMyKQo=
+
+# Telegram Userbot Gratis
+
+Telegram userbot gratis bisa di buat apa aja termasuk jaseb spam gcast chatbot jual beli dan lain lain
+
+# Global Bot App
+
+**Global Bot App** adalah sebuah app untuk menjalankan berbagai bot / userbot di perangkat lokal (Hp / Komputer / Laptop / Tab)
+
+## ⚠️ Penting
+
+**Applikasi** ini adalah sebuah **sub app** artinya **kamu perlu akun app utama** untuk bisa memakai akun ini
+
+**Contoh:** **GLOBAL BOT APP** maka app utama **GLOBAL APP**
+
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/RFTVdYC5PeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=RFTVdYC5PeM)
+
+
+[Link Download](https://github.com/globalcorporation/global_bot_app/releases/tag/latest)
+
+## Price
+
+Di karenakan kami ingin mengembangkan ini dengan lebih bagus dan sekaligus bisa untuk mengembangkan hal lain, maka application ini berbayar
+
+1. **Application**
+   Kami menghargai app kami gratis namun agar kamu bisa mengakses fitur unggulan kamu harus upgrade akun dahulu di karenakan ini sebuah applikasi sub APP Maka upgrade hanya di Applikasi original 
+   Contoh:
+   **Global Bot App** Maka kamu upgrade akun di **GLOBAL APP** jika kamu sudah upgrade maka automatis di app turunan global app akan auto subscribe ke plan sendiri mengikuti induk app
+
+2. **Bot / Userbot**
+   Kami menyediakan gratis namun dengan watermak namun jika kamu ingin bayar kamu bisa mendapat akses lebih harga untuk menjalankan bot disini rata rata mulai **25k**-**500k**
+
+ 
+
 
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
